@@ -1,0 +1,15 @@
+StudyHours,Attendance,Assignment,Sleep,Result
+Low,Poor,No,Less,Fail
+Medium,Good,Yes,Normal,Pass
+High,Good,Yes,Good,Pass
+Low,Average,No,Less,Fail
+High,Good,Yes,Good,Pass
+Medium,Average,Yes,Normal,Pass
+Low,Poor,No,Less,Fail
+High,Good,Yes,Good,Pass
+Medium,Average,Yes,Normal,Pass
+Low,Poor,No,Less,Fail
+High,Good,Yes,Good,Pass
+Medium,Average,Yes,Normal,Pass
+Low,Poor,No,Less,Fail
+High,Good,Yes,Good,Pass
